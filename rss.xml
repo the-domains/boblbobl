@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[boblbobl]]></title>
         <description><![CDATA[boblbobl]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/boblbobl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 15:14:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 May 2016 15:14:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/boblbobl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Experience a NASA Spacewalk Through the Lens of a GoPro Camera]]></title>
+            <description><![CDATA[<article><h1>Experience a NASA Spacewalk Through the Lens of a GoPro Camera</h1><p>Want to see what it's like to "walk" around in space outside the International Space Station? NASA wants to show you. The agency recently strapped GoPro cameras onto two astronauts to capture the wonder of spacewalks from their perspective.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3d0f4303f6b7750f52857db8c393871f382887d.jpg"></article>]]></description>
+            <link>http://petapixel.com/2015/04/12/experience-a-nasa-spacewalk-through-the-lens-of-a-gopro-camera/</link>
+            <guid isPermaLink="false">88cb9419-1138-48a6-8d46-3f4b0c1508b1</guid>
+            <pubDate>Mon, 16 May 2016 15:14:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['Light field' camera maker Lytro announces professional VR video rig]]></title>
             <description><![CDATA[<article><h1>'Light field' camera maker Lytro announces professional VR video rig</h1><p>Camera maker Lytro drew our attention three years ago with what it called "light field" photography. Instead of focusing at a specific depth, its camera would capture everything in range of its finder, so you could do things like pick a focus after taking the picture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/656906e37edfa8831a9d2951c445a7cf45513621.jpg"></article>]]></description>
